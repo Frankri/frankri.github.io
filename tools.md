@@ -47,6 +47,7 @@ Are you using them?](https://internet.nl/)
 - [E-Mail Header finden und verstehen](https://www.mailjet.de/blog/news/email-header/)
 - [SPF Record sender policy framework](https://www.spf-record.de/)
 - [1secMail](https://www.1secmail.com/) temporäre E-Mail-Adresse
+- [Email Security (SPF, DKIM, and DMARC)](https://www.praetorian.com/blog/email-security/)
 
 **Video/ Tutorials**
 - [Sebastian Philippi/sephi](https://www.youtube.com/channel/UCprxyhLmoU0DA1UhJUw0bDA/playlists) IT-Grundlagen
